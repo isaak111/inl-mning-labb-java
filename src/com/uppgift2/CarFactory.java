@@ -17,7 +17,7 @@ public class CarFactory {
                 break;
 
             default:
-                Exception e ;
+                System.out.println("ånej");
                 break;
         }
         return car;
